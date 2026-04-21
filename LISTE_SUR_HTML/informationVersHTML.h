@@ -1,0 +1,1 @@
+void EcrireEnHTML(const char *nomFichierExel,const char *nomFichierHTML);

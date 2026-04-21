@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #3208;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+table{
+    background-color: black;
+    border-collapse: separate;
+    td,th{
+        background-color: #fff;
+        padding: 5px 8px;
+    }
+}
